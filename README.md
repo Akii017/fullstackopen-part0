@@ -45,6 +45,6 @@ If using VS Code, install the **Markdown Preview Mermaid Support** extension for
 
 ---
 
-**Name:** Akhil  
+**Name:** Akhil Vijayan
 **Course:** Full Stack Open  
 **Part:** 0 - Fundamentals of Web Apps
